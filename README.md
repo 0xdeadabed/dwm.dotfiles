@@ -1,7 +1,11 @@
 # A collection of my dwm dotfiles.
 
-### Hello friends, since I'm studying C programming language at [42Lausanne](https://www.42lausanne.ch/), I decided to switch my desktop manager from i3 to dwm, for some reasons but especially because it's written in C and I can laern even more. So I decided to write my notes in the form of tutorial and walkthrough.
+#### Hello friends, since I'm studying C programming language at [42Lausanne](https://www.42lausanne.ch/), I decided to switch my desktop manager from i3 to dwm, for some reasons but especially because it's written in C and I can laern even more. So I decided to write my notes in the form of tutorial and walkthrough.
 
 `Please note that these notes and dwm in general are aimed for more advanced users, especially you need some basic C theories to fully understand what I'm going to be talking about. Fore begginer users who wish to have a tiling windows manager, it's preferable to use windows managers like i3 for which I'll later create another repository where I'm going to be sharing my notes about it.`
+
+#### So why dwm? What is even that windows manager thing? A brief story.
+Unlike othre OS, GNU/Linux is the richest OS in the term of utilities and its thanks to its generous community and nice peoples around all the world who thanklessfully collaborate and put pieces together, It does have so many utilities and distros that users are often overwhelmed about what to chose! But good news for you, distros like [ArchLinux](https://archlinux.org/), [gentoo](https://www.gentoo.org/), etc... are here for you.
+I first like to explain a debatable concept, Whenever talking about linux, what the most people imagine is actually not Linux but GNU/Linux rather [More about is](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy#History). I won't go too much on detail about this but know that Linux is just a kernel that gives you freedom to how use it and what kind of software you want to install on it, you better understand of the concept of freedom in Linux especially when you install some distros like ArchLinux that gives you the minimum utilities that you need, and the rest you will chose as you wish, I wont talk too much about it neither, since it is not our main goal here, but you know, one has to understand these basic theories and concepts to truly see the big picture of Linux and free/opensource softwares, the [Installation Guide](https://wiki.archlinux.org/title/Installation_guide) and the arch wiki in general has everything you need.
 
 #### Updates will come contiously.
