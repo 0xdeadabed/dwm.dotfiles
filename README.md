@@ -23,10 +23,10 @@ dwm is a dynamic windows manager a [suckless](https://dwm.suckless.org/) utility
 As I have already menstioned dwn is written in C, therefore it has somehow to be compiled, and good news it is explained in the [installation guide](), you have just to follow it in order to install dwm correctly.
 
 #### Run dwm
-After installing dwm one has to somehow run and log in to it, there are multiple ways of doing such a task, you could probably run it as a normal program, but I don't think that would be a good idea, you may want to log in to dwm directly after booting process. you can use [xinit]() or some kind of [display manager](https://wiki.archlinux.org/title/Display_manager).
+After installing dwm one has to somehow run and log in to it, there are multiple ways of doing such a task, you could probably run it as a normal program, but I don't think that would be a good idea, you may want to log in to dwm directly after booting process. you can use [xinit](https://wiki.archlinux.org/title/Xinit) or some kind of [display manager](https://wiki.archlinux.org/title/Display_manager).
 
 In the installation guide, it is already explained how to run dwm through xinit, but if you are using annother display manager as I do, you should how to find out how to add dwm to it, the wiki of archlinux is great of these kind of informations. 
 
-For my caae as I use lightdm, you have to create a file in /usr/share/xsessions/ called dwm.desktop and put [this]() into it.lightdm will then check it out and add it to the list.
+For my caae as I use lightdm, you have to create a file in /usr/share/xsessions/ called dwm.desktop and put [this](https://github.com/0xb1n4r/dwm.dotfiles/blob/main/dwm.desktop) into it.lightdm will then check it out and add it to the list.
 
 #### Updates will come contiously.
