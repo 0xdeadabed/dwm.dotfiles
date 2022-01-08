@@ -11,8 +11,8 @@ In order to build dwm you need the Xlib header files.
 Installation
 ------------
 Clone the dwm repository from the official suckless website.
-> git clone https://git.suckless.org/dwm
-    make clean install
+
+    git clone https://git.suckless.org/dwm
     
 Afterwards enter the following command to build and install dwm (if
 necessary as root):
