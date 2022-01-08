@@ -19,4 +19,14 @@ Well, now we have learned some basic things, a [Window manager](https://wiki.arc
 #### dwm
 dwm is a dynamic windows manager a [suckless](https://dwm.suckless.org/) utility, it is minimal, you don't have too much unless widget unless you install them.
 
+#### Install dwm
+As I have already menstioned dwn is written in C, therefore it has somehow to be compiled, and good news it is explained in the [installation guide](), you have just to follow it in order to install dwm correctly.
+
+#### Run dwm
+After installing dwm one has to somehow run and log in to it, there are multiple ways of doing such a task, you could probably run it as a normal program, but I don't think that would be a good idea, you may want to log in to dwm directly after booting process. you can use [xinit]() or some kind of [display manager](https://wiki.archlinux.org/title/Display_manager).
+
+In the installation guide, it is already explained how to run dwm through xinit, but if you are using annother display manager as I do, you should how to find out how to add dwm to it, the wiki of archlinux is great of these kind of informations. 
+
+For my caae as I use lightdm, you have to create a file in /usr/share/xsessions/ called dwm.desktop and put [this]() into it.lightdm will then check it out and add it to the list.
+
 #### Updates will come contiously.
