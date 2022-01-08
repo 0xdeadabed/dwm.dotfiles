@@ -12,7 +12,8 @@ Installation
 ------------
 Clone the dwm repository from the official suckless website.
 > git clone https://git.suckless.org/dwm
-
+    make clean install
+    
 Afterwards enter the following command to build and install dwm (if
 necessary as root):
 
