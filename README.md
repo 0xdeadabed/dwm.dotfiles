@@ -29,4 +29,7 @@ In the installation guide, it is already explained how to run dwm through xinit,
 
 For my caae as I use lightdm, you have to create a file in /usr/share/xsessions/ called dwm.desktop and put [this](https://github.com/0xb1n4r/dwm.dotfiles/blob/main/dwm.desktop) into it.lightdm will then check it out and add it to the list.
 
+#### First look of dwm
+![DWM](https://github.com/0xb1n4r/dwm.dotfiles/blob/main/imgs/screenshots/DeepinScreenshot_select-area_20220106215122.png)
+
 #### Updates will come contiously.
