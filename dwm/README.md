@@ -10,8 +10,8 @@ In order to build dwm you need the Xlib header files.
 
 Installation
 ------------
-Edit config.mk to match your local setup (dwm is installed into
-the /usr/local namespace by default).
+Clone the dwm repository from the official suckless website.
+> git clone https://git.suckless.org/dwm
 
 Afterwards enter the following command to build and install dwm (if
 necessary as root):
