@@ -20,7 +20,7 @@ Well, now we have learned some basic things, a [Window manager](https://wiki.arc
 dwm is a dynamic windows manager a [suckless](https://dwm.suckless.org/) utility, it is minimal, you don't have too much unless widget unless you install them.
 
 #### Install dwm
-As I have already menstioned dwn is written in C, therefore it has somehow to be compiled, and good news it is explained in the [installation guide](), you have just to follow it in order to install dwm correctly.
+As I have already menstioned dwn is written in C, therefore it has somehow to be compiled, and good news it is explained in the [installation guide](https://github.com/0xb1n4r/dwm.dotfiles/tree/main/dwm#readme), you have just to follow it in order to install dwm correctly.
 
 #### Run dwm
 After installing dwm one has to somehow run and log in to it, there are multiple ways of doing such a task, you could probably run it as a normal program, but I don't think that would be a good idea, you may want to log in to dwm directly after booting process. you can use [xinit](https://wiki.archlinux.org/title/Xinit) or some kind of [display manager](https://wiki.archlinux.org/title/Display_manager).
